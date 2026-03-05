@@ -82,7 +82,7 @@ The AI logic is separated into a dedicated module (`ai_engine`) to maintain clea
 
 ### 1. Clone the repository
 
-git clone [https://github.com/yourusername/ai-career-assistant.git](https://github.com/yourusername/ai-career-assistant.git)
+git clone [https://github.com/saisagar-2000/ai-career-assistant.git](https://github.com/saisagar-2000/ai-career-assistant.git)
 cd ai-career-assistant
 
 
